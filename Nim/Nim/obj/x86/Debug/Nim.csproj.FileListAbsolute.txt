@@ -1,0 +1,9 @@
+C:\Users\Kylie\Documents\0_School\Homework\7th_Quarter\SoftwareEngineering\Nim\Nim\bin\Debug\Nim.exe
+C:\Users\Kylie\Documents\0_School\Homework\7th_Quarter\SoftwareEngineering\Nim\Nim\bin\Debug\Nim.pdb
+C:\Users\Kylie\Documents\0_School\Homework\7th_Quarter\SoftwareEngineering\Nim\Nim\obj\x86\Debug\Nim.exe
+C:\Users\Kylie\Documents\0_School\Homework\7th_Quarter\SoftwareEngineering\Nim\Nim\obj\x86\Debug\Nim.pdb
+C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\obj\x86\Debug\Nim.exe
+C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\obj\x86\Debug\Nim.pdb
+C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\bin\Debug\Nim.exe
+C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\bin\Debug\Nim.pdb
+C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\obj\x86\Debug\Nim.csprojResolveAssemblyReference.cache
