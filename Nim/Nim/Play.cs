@@ -183,7 +183,7 @@ namespace Nim
             }
 
             int index = gen.Next(turnCombos.Count);
-            CombinationObject move = turnCombos.Get(index);
+            CombinationObject move = turnCombos.get(index);
             turnsTaken[count] = computerMoves;
             computerMoves++;
             count++;
