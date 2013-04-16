@@ -7,3 +7,5 @@ C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\N
 C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\bin\Debug\Nim.exe
 C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\bin\Debug\Nim.pdb
 C:\Users\slight\Documents\1 School\1 SP2013\Principles of Software Engineering\Nim\Nim\Nim\obj\x86\Debug\Nim.csprojResolveAssemblyReference.cache
+C:\Users\slight\Documents\GitHub\Principles_Nim\Nim\Nim\obj\x86\Debug\Nim.exe
+C:\Users\slight\Documents\GitHub\Principles_Nim\Nim\Nim\obj\x86\Debug\Nim.pdb
